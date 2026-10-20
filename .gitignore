@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+network_diagnostic_history.csv
+network_test_log.csv
+saved_targets.json
